@@ -1,27 +1,2 @@
----
----
+@import "jekyll-theme-minimal";
 
-# assets/css/style.scss (optional)
-```scss
----
----
-
-
-// This file lets you tweak the theme without forking it.
-// It must begin with the triple-dashed Front Matter above.
-
-
-// Example: widen content and adjust font sizes
-.page-content {
-max-width: 900px;
-}
-
-
-h1, h2, h3 { line-height: 1.2; }
-
-
-img { border-radius: 8px; }
-```
-
-
----
