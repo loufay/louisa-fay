@@ -16,17 +16,17 @@ show_downloads: false
 
 
 # SEO & social (optional)
-#google_analytics: G-XXXXXXXXXX
 social_links:
-- label: Google Scholar
-icon: scholar
-url: https://scholar.google.com/citations?user=YOURID
-- label: LinkedIn
-icon: linkedin
-url: https://www.linkedin.com/in/yourprofile/
-- label: GitHub
-icon: github
-url: https://github.com/yourusername
+  - label: Google Scholar
+    icon: scholar
+    url: https://scholar.google.com/citations?user=YOURID
+  - label: LinkedIn
+    icon: linkedin
+    url: https://www.linkedin.com/in/yourprofile/
+  - label: GitHub
+    icon: github
+    url: https://github.com/yourusername
+
 
 
 # Markdown & plugins (safe defaults for GitHub Pages)
