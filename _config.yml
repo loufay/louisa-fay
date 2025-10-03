@@ -1,5 +1,4 @@
-# _config.yml
-```yml
+
 title: "Louisa Fay"
 description: "Researcher in Medical Imaging & Causality"
 url: "https://yourusername.github.io"
@@ -34,7 +33,4 @@ markdown: kramdown
 plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
-```
 
-
----
