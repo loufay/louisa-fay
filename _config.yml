@@ -1,1 +1,40 @@
+# _config.yml
+```yml
+title: "Your Name"
+description: "Researcher in Medical Imaging & Causality"
+url: "https://yourusername.github.io"
+baseurl: "" # do not change for user.github.io sites
+
+
+# GitHub Pages official theme (works out of the box)
 theme: jekyll-theme-minimal
+
+
+# Site-wide options for jekyll-theme-minimal
+logo: /assets/img/profile.jpg
+show_downloads: false
+
+
+# SEO & social (optional)
+#google_analytics: G-XXXXXXXXXX
+social_links:
+- label: Google Scholar
+icon: scholar
+url: https://scholar.google.com/citations?user=YOURID
+- label: LinkedIn
+icon: linkedin
+url: https://www.linkedin.com/in/yourprofile/
+- label: GitHub
+icon: github
+url: https://github.com/yourusername
+
+
+# Markdown & plugins (safe defaults for GitHub Pages)
+markdown: kramdown
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+```
+
+
+---
